@@ -1,0 +1,16 @@
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.exe
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.deps.json
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.runtimeconfig.json
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.runtimeconfig.dev.json
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.dll
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\bin\Debug\net5.0\DigiBank.pdb
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.csproj.AssemblyReference.cache
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.AssemblyInfoInputs.cache
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.AssemblyInfo.cs
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.csproj.CoreCompileInputs.cache
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.dll
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\obj\Debug\net5.0\refint\DigiBank.dll
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.pdb
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\obj\Debug\net5.0\DigiBank.genruntimeconfig.cache
+C:\Treinamento\OOP\DigiBank\DigiBank\DigiBank\obj\Debug\net5.0\ref\DigiBank.dll
